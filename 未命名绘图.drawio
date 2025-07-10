@@ -1,0 +1,35 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0">
+  <diagram name="第 1 页" id="W9u_HqTxdQooOPO_NeQ8">
+    <mxGraphModel dx="786" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yWIZpv7ygQLchZdSMrio-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" edge="1" parent="1" source="yWIZpv7ygQLchZdSMrio-1" target="yWIZpv7ygQLchZdSMrio-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yWIZpv7ygQLchZdSMrio-1" value="Mysql 必知必会" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" vertex="1" parent="1">
+          <mxGeometry x="350" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yWIZpv7ygQLchZdSMrio-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" edge="1" parent="1" source="yWIZpv7ygQLchZdSMrio-10" target="yWIZpv7ygQLchZdSMrio-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWIZpv7ygQLchZdSMrio-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;章节1&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="540" y="680" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yWIZpv7ygQLchZdSMrio-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" edge="1" parent="1" source="yWIZpv7ygQLchZdSMrio-12" target="yWIZpv7ygQLchZdSMrio-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yWIZpv7ygQLchZdSMrio-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;前言&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="580" y="525" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yWIZpv7ygQLchZdSMrio-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: STHeitiSC-Light, STHeiti, Hei, &amp;quot;Heiti SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, sans-serif; font-size: 14px; font-weight: normal;&quot;&gt;前言：不会引申深处的数据库知识，相对于只需要熟练使用mysql初学者来说比较友好。&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: STHeitiSC-Light, STHeiti, Hei, &amp;quot;Heiti SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, sans-serif; font-size: 14px; font-weight: normal;&quot;&gt;面向人群是：1. SQL 新手；2. 希望快速学会并熟练使用 SQL；3 希望知道如何使用 SQL 开发应用程序；&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: STHeitiSC-Light, STHeiti, Hei, &amp;quot;Heiti SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;4. 希望在无人帮助的情况下有效而快速地使用 SQL。&lt;/span&gt;&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="490" width="180" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
