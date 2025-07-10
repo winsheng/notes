@@ -4,36 +4,48 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yWIZpv7ygQLchZdSMrio-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" parent="1" source="yWIZpv7ygQLchZdSMrio-1" target="yWIZpv7ygQLchZdSMrio-12" edge="1">
+        <mxCell id="yWIZpv7ygQLchZdSMrio-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#788AA3;fontColor=default;fillColor=#B2C9AB;labelBackgroundColor=none;" parent="1" source="yWIZpv7ygQLchZdSMrio-1" target="yWIZpv7ygQLchZdSMrio-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yWIZpv7ygQLchZdSMrio-1" value="Mysql 必知必会" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" parent="1" vertex="1">
+        <mxCell id="yWIZpv7ygQLchZdSMrio-1" value="Mysql 必知必会" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="350" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yWIZpv7ygQLchZdSMrio-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" parent="1" source="yWIZpv7ygQLchZdSMrio-10" target="yWIZpv7ygQLchZdSMrio-1" edge="1">
+        <mxCell id="yWIZpv7ygQLchZdSMrio-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=default;fillColor=#B2C9AB;labelBackgroundColor=none;" parent="1" source="yWIZpv7ygQLchZdSMrio-10" target="yWIZpv7ygQLchZdSMrio-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1lWsYmDlGE3shpCYUzRr-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" edge="1" parent="1" source="yWIZpv7ygQLchZdSMrio-10" target="1lWsYmDlGE3shpCYUzRr-1">
+        <mxCell id="1lWsYmDlGE3shpCYUzRr-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=default;fillColor=#B2C9AB;labelBackgroundColor=none;" edge="1" parent="1" source="yWIZpv7ygQLchZdSMrio-10" target="1lWsYmDlGE3shpCYUzRr-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yWIZpv7ygQLchZdSMrio-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;章节1&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;" parent="1" vertex="1">
+        <mxCell id="yWIZpv7ygQLchZdSMrio-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;章节1&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fillColor=#B2C9AB;strokeColor=#788AA3;fillStyle=auto;labelBackgroundColor=none;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="540" y="680" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yWIZpv7ygQLchZdSMrio-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" parent="1" source="yWIZpv7ygQLchZdSMrio-12" target="yWIZpv7ygQLchZdSMrio-17" edge="1">
+        <mxCell id="yWIZpv7ygQLchZdSMrio-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=default;fillColor=#B2C9AB;labelBackgroundColor=none;" parent="1" source="yWIZpv7ygQLchZdSMrio-12" target="yWIZpv7ygQLchZdSMrio-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770" y="535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yWIZpv7ygQLchZdSMrio-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;前言&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="yWIZpv7ygQLchZdSMrio-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;前言&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fillColor=#B2C9AB;strokeColor=#788AA3;labelBackgroundColor=none;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="560" y="525" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yWIZpv7ygQLchZdSMrio-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: STHeitiSC-Light, STHeiti, Hei, &amp;quot;Heiti SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, sans-serif; font-size: 14px; font-weight: normal;&quot;&gt;前言：不会引申深处的数据库知识，相对于只需要熟练使用mysql初学者来说比较友好。&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: STHeitiSC-Light, STHeiti, Hei, &amp;quot;Heiti SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, sans-serif; font-size: 14px; font-weight: normal;&quot;&gt;面向人群是：1. SQL 新手；2. 希望快速学会并熟练使用 SQL；3 希望知道如何使用 SQL 开发应用程序；&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: STHeitiSC-Light, STHeiti, Hei, &amp;quot;Heiti SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;4. 希望在无人帮助的情况下有效而快速地使用 SQL。&lt;/span&gt;&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="yWIZpv7ygQLchZdSMrio-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: STHeitiSC-Light, STHeiti, Hei, &amp;quot;Heiti SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, sans-serif; font-size: 14px; font-weight: normal;&quot;&gt;前言：不会引申深处的数据库知识，相对于只需要熟练使用mysql初学者来说比较友好。&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: STHeitiSC-Light, STHeiti, Hei, &amp;quot;Heiti SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, sans-serif; font-size: 14px; font-weight: normal;&quot;&gt;面向人群是：1. SQL 新手；2. 希望快速学会并熟练使用 SQL；3 希望知道如何使用 SQL 开发应用程序；&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: STHeitiSC-Light, STHeiti, Hei, &amp;quot;Heiti SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;4. 希望在无人帮助的情况下有效而快速地使用 SQL。&lt;/span&gt;&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fillColor=#B2C9AB;strokeColor=#788AA3;labelBackgroundColor=none;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="720" y="490" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1lWsYmDlGE3shpCYUzRr-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1.1 数据库知识&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;数据库简单来说就是以某种有组织的存储方式的数据集合&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;" vertex="1" parent="1">
+        <mxCell id="1lWsYmDlGE3shpCYUzRr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=default;fillColor=#B2C9AB;labelBackgroundColor=none;" edge="1" parent="1" source="1lWsYmDlGE3shpCYUzRr-1" target="1lWsYmDlGE3shpCYUzRr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lWsYmDlGE3shpCYUzRr-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="1lWsYmDlGE3shpCYUzRr-1" target="1lWsYmDlGE3shpCYUzRr-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lWsYmDlGE3shpCYUzRr-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1.1 数据库知识&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fillColor=#B2C9AB;strokeColor=#788AA3;fillStyle=auto;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="800" y="680" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1lWsYmDlGE3shpCYUzRr-3" value="1. 数据库&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font&gt;数据库简单来说就是以某种有组织的存储方式的数据集合&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#B2C9AB;strokeColor=#788AA3;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1lWsYmDlGE3shpCYUzRr-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(70, 73, 93), rgb(170, 173, 190)); font-weight: normal;&quot;&gt;2. 表&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fillColor=#B2C9AB;strokeColor=#788AA3;fillStyle=auto;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="840" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
